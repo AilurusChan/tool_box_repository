@@ -1,0 +1,44 @@
+{
+  "items" : [{
+    "field_name": "comments",
+    "repetition": "multiple",
+    "type": "text",
+    "label": "Comments"
+  },
+  {
+    "field_name": "tags",
+    "repetition": "single",
+    "type": "text",
+    "label": "Tags"
+  },
+  {
+    "field_name": "description",
+    "repetition": "multiple",
+    "type": "text",
+    "label": "Description"
+  },
+  {
+    "field_name": "notes",
+    "repetition": "single",
+    "type": "text",
+    "label": "Notes"
+  },
+  {
+    "field_name": "feedback",
+    "repetition": "multiple",
+    "type": "text",
+    "label": "Feedback"
+  },
+  {
+    "field_name": "comments",
+    "repetition": "single",
+    "type": "text",
+    "label": "Summary"
+  },
+  {
+    "field_name": "notes",
+    "repetition": "multiple",
+    "type": "text",
+    "label": "Remarks"
+  }]
+}
